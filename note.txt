@@ -1,0 +1,2 @@
+# Python should be installed in order to run the program
+# Run requirements.py before using pomodoro.py
